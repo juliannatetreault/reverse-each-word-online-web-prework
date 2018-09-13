@@ -3,3 +3,7 @@ def reverse_each_word(string)
  reverse.each {|w| w.reverse!}
  reverse.join(" ")
 end
+
+def reverse_each_word(string)
+  
+end
